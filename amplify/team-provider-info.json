@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-octankapp-dev-221313-authRole",
+            "UnauthRoleArn": "arn:aws:iam::739240042723:role/amplify-octankapp-dev-221313-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::739240042723:role/amplify-octankapp-dev-221313-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-octankapp-dev-221313-deployment",
+            "UnauthRoleName": "amplify-octankapp-dev-221313-unauthRole",
+            "StackName": "amplify-octankapp-dev-221313",
+            "StackId": "arn:aws:cloudformation:us-east-1:739240042723:stack/amplify-octankapp-dev-221313/36813fa0-db78-11ea-9b0b-120bf1e0775b",
+            "AmplifyAppId": "d1344vmmjy6adx"
+        },
+        "categories": {
+            "auth": {
+                "octankappf1604092": {}
+            }
+        }
+    }
+}
